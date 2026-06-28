@@ -1,4 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iberkan/parlamint-embedding-bias/blob/main/thesis_findings.ipynb)
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21001580.svg)](https://doi.org/10.5281/zenodo.21001580)
+[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21000496.svg)](https://doi.org/10.5281/zenodo.21000496)
 
 # Political orientation in multilingual embedding spaces
 
@@ -41,7 +43,8 @@ To re-compute the embeddings from scratch you also need the raw ParlaMint text
 
 ## Citation
 
-If you use this code or data, please cite the thesis and the Zenodo archive, and
+If you use this work, please cite the thesis, the code archive
+(DOI 10.5281/zenodo.21001580) and the dataset (DOI 10.5281/zenodo.21000496), and
 cite ParlaMint 5.0 (Erjavec et al., 2024) as the source corpus.
 
 ## License
