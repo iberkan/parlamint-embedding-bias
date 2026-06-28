@@ -1,0 +1,14 @@
+*.npy
+*.zip
+*.csv
+*.parquet
+parlamint_thesis/
+_zenodo_extract/
+results/
+data/
+embeddings/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
