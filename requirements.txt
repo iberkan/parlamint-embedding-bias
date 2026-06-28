@@ -1,0 +1,13 @@
+# Analysis pipeline (thesis_findings.ipynb)
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+matplotlib
+requests
+torch
+
+# Only needed to RE-COMPUTE embeddings from raw ParlaMint text (scripts/):
+# sentence-transformers
+# transformers
